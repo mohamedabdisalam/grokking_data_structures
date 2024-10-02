@@ -1,5 +1,5 @@
 from typing import Union
-from arrays.core import Array
+from python.arrays.core import Array
 
 class UnsortedArray:
     '''Return a new unsorted array whose items are restricted by typecode, and
